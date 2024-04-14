@@ -36,7 +36,7 @@ python app.py
 ```
 
 ### Considerations
-Despite achieving decent accuracy, there is room for improvement in the model's performance. Future iterations may focus on fine-tuning hyperparameters, exploring different architectures, or expanding the dataset to improve accuracy.
+Despite achieving good accuracy, there is room for improvement in the model's performance. Future iterations may focus on fine-tuning hyperparameters, exploring different architectures, or expanding the dataset to improve accuracy.
 
 ### Contributor
 For any further queries, please contact via Email at [mainakcr72002@gmail.com](mainakcr72002@gmail.com)
